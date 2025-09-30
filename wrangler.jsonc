@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "v1-urban-chowk-menu-231aef3c-8645-41da-b37e-8fbc6287c1b0",
+	"name": "urban-chowk",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
